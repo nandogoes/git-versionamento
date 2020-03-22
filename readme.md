@@ -4,11 +4,4 @@ alterarção no readme, para teste do git.
 
 ola, tudo bem?
 
-
-
-
-
-
-
-
-steste
+NOVA LINHA ADICIONADA.
